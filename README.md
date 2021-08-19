@@ -1,3 +1,8 @@
+# Readme of react-ts-template
+
+This repository is a template for development by TypeScript and React (already installed ESLint and Prettier).
+For more detail of setup the development environment, please refer to this page: [VSCode + TypeScript + React で開発を行うための ESLint + Prettier の環境構築 2021](https://qiita.com/Tdrj2716/items/7ea57bd758e694840482)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
